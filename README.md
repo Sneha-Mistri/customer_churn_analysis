@@ -63,10 +63,10 @@ customers, enabling a targeted contract-migration retention strategy.
 ![ChurnByType](churn_by_planType_Screenshot.png)
 
 # Churn By Sate
-![churnbystate](churn_by_state_Screenshot.png)
+![churnbystate](churn_by_state_screenshot.png)
 
 # correlation between numerical columns
-![heatmap](heat_Screenshot.png)
+![heatmap](heatmap_screenshot.png)
 
 
 
