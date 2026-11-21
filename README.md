@@ -68,5 +68,11 @@ customers, enabling a targeted contract-migration retention strategy.
 # correlation between numerical columns
 ![heatmap](heatmap_screenshot.png)
 
+# Multivariate Feature Relationships (Pair Plot)
+![Subscriber Pair Plot](pair_plot.png)
+
+# Churn Distribution Across Tiers & Escalations (Cat Plot)
+![Categorical Churn Plot](catplot.png)
+
 
 
