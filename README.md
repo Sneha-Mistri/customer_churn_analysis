@@ -59,7 +59,14 @@ customers, enabling a targeted contract-migration retention strategy.
 # Monthly Churn Trend
 ![MonthyChurnTREND](Monthly_Churn_trend_screenshot.png)
 
+# Churn By Plan Type
+![ChurnByType](churn_by_planType_Screenshot.png)
 
+# Churn By Sate
+![churnbystate](churn_by_state_Screenshot.png)
+
+# correlation between numerical columns
+![heatmap](heat_Screenshot.png)
 
 
 
