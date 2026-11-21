@@ -54,7 +54,12 @@ overall churn rate and surfacing that monthly-contract subscribers churned at 55
 annual-contract rate- directly attributing $73.94/mo in MRR leakage and $2,047 in CLTV erosion to six at-risk 
 customers, enabling a targeted contract-migration retention strategy.
 
-# Preview
+## 📊 Key Visual Insights
+
+# Monthly Churn Trend
+![MonthyChurnTREND](Monthly_Churn_trend_screenshot.png)
+
+
 
 
 
